@@ -1,5 +1,5 @@
 Sitene Parite Kurları (Widget) Ekle. Ücretsiz Web Master Araçları.
-Aşağıdaki kodu, sitenizde görmek istediğiniz yere ekleyebilir ve kolayca kullanabilirsiniz.
+Aşağıdaki kodu, sitenizde pariteleri görmek istediğiniz yere ekleyebilir ve kolayca kullanabilirsiniz.
 
 Parite Kurları widget'i anlık olarak çalışmaktadır
 Dövizmix'in Parite Kurlarını, sitenize eklemeniz için sebepler;
